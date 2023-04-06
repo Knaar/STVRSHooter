@@ -88,7 +88,7 @@
 "G:\UE503Projects\STVRShooter\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RD\stdout_sinks.cpp.obj"
 "G:\UE503Projects\STVRShooter\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RD\thirdparty.cpp.obj"
 "G:\UE503Projects\STVRShooter\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RD\RD.cpp.obj"
-"G:\UE503Projects\STVRShooter\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RD\Default.rc2.res"
+"..\Intermediate\Build\Win64\UnrealEditor\Development\Default.rc2.res"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
 "delayimp.lib"
 "wininet.lib"

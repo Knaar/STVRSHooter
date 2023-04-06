@@ -1,29 +1,29 @@
-G:\UE503Projects\STVRShooter\STVRShooter\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLogging\Module.RiderLogging.cpp
+U:\STUVRShooterUE5Source\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLogging\Module.RiderLogging.cpp
 /I .
-/I G:\UE503Projects\STVRShooter\STVRShooter\Plugins\Developer\RiderLink\Source\RiderLogging\Private
+/I U:\STUVRShooterUE5Source\Plugins\Developer\RiderLink\Source\RiderLogging\Private
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
-/I G:\UE503Projects\STVRShooter\STVRShooter\Plugins\Developer\RiderLink\Source
-/I G:\UE503Projects\STVRShooter\STVRShooter\Plugins\Developer\RiderLink\Source\RD\src
-/I G:\UE503Projects\STVRShooter\STVRShooter\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp
-/I G:\UE503Projects\STVRShooter\STVRShooter\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main
-/I G:\UE503Projects\STVRShooter\STVRShooter\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp
-/I G:\UE503Projects\STVRShooter\STVRShooter\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main
-/I G:\UE503Projects\STVRShooter\STVRShooter\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\util
-/I G:\UE503Projects\STVRShooter\STVRShooter\Plugins\Developer\RiderLink\Source\RD\src\rd_gen_cpp\src
-/I G:\UE503Projects\STVRShooter\STVRShooter\Plugins\Developer\RiderLink\Source\RD\thirdparty
-/I G:\UE503Projects\STVRShooter\STVRShooter\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include
-/I G:\UE503Projects\STVRShooter\STVRShooter\Plugins\Developer\RiderLink\Source\RD\thirdparty\optional\tl
-/I G:\UE503Projects\STVRShooter\STVRShooter\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include
-/I G:\UE503Projects\STVRShooter\STVRShooter\Plugins\Developer\RiderLink\Source\RD\thirdparty\string-view-lite\include
-/I G:\UE503Projects\STVRShooter\STVRShooter\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include
-/I G:\UE503Projects\STVRShooter\STVRShooter\Plugins\Developer\RiderLink\Source\RD\thirdparty\clsocket\src
-/I G:\UE503Projects\STVRShooter\STVRShooter\Plugins\Developer\RiderLink\Source\RD\thirdparty\CTPL\include
-/I G:\UE503Projects\STVRShooter\STVRShooter\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library
-/I G:\UE503Projects\STVRShooter\STVRShooter\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\RdEditorProtocol
-/I G:\UE503Projects\STVRShooter\STVRShooter\Plugins\Developer\RiderLink\Source\RiderLink\Public
-/I G:\UE503Projects\STVRShooter\STVRShooter\Plugins\Developer\RiderLink\Source\RiderBlueprint\Public
+/I U:\STUVRShooterUE5Source\Plugins\Developer\RiderLink\Source
+/I U:\STUVRShooterUE5Source\Plugins\Developer\RiderLink\Source\RD\src
+/I U:\STUVRShooterUE5Source\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp
+/I U:\STUVRShooterUE5Source\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main
+/I U:\STUVRShooterUE5Source\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp
+/I U:\STUVRShooterUE5Source\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main
+/I U:\STUVRShooterUE5Source\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\util
+/I U:\STUVRShooterUE5Source\Plugins\Developer\RiderLink\Source\RD\src\rd_gen_cpp\src
+/I U:\STUVRShooterUE5Source\Plugins\Developer\RiderLink\Source\RD\thirdparty
+/I U:\STUVRShooterUE5Source\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include
+/I U:\STUVRShooterUE5Source\Plugins\Developer\RiderLink\Source\RD\thirdparty\optional\tl
+/I U:\STUVRShooterUE5Source\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include
+/I U:\STUVRShooterUE5Source\Plugins\Developer\RiderLink\Source\RD\thirdparty\string-view-lite\include
+/I U:\STUVRShooterUE5Source\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include
+/I U:\STUVRShooterUE5Source\Plugins\Developer\RiderLink\Source\RD\thirdparty\clsocket\src
+/I U:\STUVRShooterUE5Source\Plugins\Developer\RiderLink\Source\RD\thirdparty\CTPL\include
+/I U:\STUVRShooterUE5Source\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library
+/I U:\STUVRShooterUE5Source\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\RdEditorProtocol
+/I U:\STUVRShooterUE5Source\Plugins\Developer\RiderLink\Source\RiderLink\Public
+/I U:\STUVRShooterUE5Source\Plugins\Developer\RiderLink\Source\RiderBlueprint\Public
 /I ThirdParty\mimalloc\include
 /I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
@@ -31,9 +31,9 @@ G:\UE503Projects\STVRShooter\STVRShooter\Plugins\Developer\RiderLink\Intermediat
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
-/FI"G:\UE503Projects\STVRShooter\STVRShooter\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLogging\Definitions.h"
-/Fo"G:\UE503Projects\STVRShooter\STVRShooter\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLogging\Module.RiderLogging.cpp.obj"
-/sourceDependencies G:\UE503Projects\STVRShooter\STVRShooter\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLogging\Module.RiderLogging.cpp.json
+/FI"U:\STUVRShooterUE5Source\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLogging\Definitions.h"
+/Fo"U:\STUVRShooterUE5Source\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLogging\Module.RiderLogging.cpp.obj"
+/sourceDependencies U:\STUVRShooterUE5Source\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLogging\Module.RiderLogging.cpp.json
 /Zc:inline
 /nologo
 /Oi
